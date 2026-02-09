@@ -20,5 +20,9 @@
   "main": "app.js",
   "scripts": {
     "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
   }
 }
