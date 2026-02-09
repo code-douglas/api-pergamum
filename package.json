@@ -1,0 +1,24 @@
+{
+  "name": "api-pergamo",
+  "version": "0.0.1",
+  "description": "Api para um clone do notion + keep",
+  "keywords": [
+    "Node",
+    "Express",
+    "Api",
+    "Json",
+    "Backend",
+    "JavaScript",
+    "ORM",
+    "Postgre",
+    "Notion",
+    "Keep"
+  ],
+  "license": "ISC",
+  "author": "Douglas",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  }
+}
